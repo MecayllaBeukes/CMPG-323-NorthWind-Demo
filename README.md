@@ -9,4 +9,4 @@ My branching strategies is...and can be seen inn the diagram below
 Structure lookis like... see diagram below
 
 ###List of repositories-
--Data capture: 
+-Data capture: https://github.com/MecayllaBeukes/CMPG-323-NorthWind-Demo/blob/main/README.md
